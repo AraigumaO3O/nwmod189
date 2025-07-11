@@ -43,4 +43,3 @@ processResources {
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
-Agregar build.gradle
