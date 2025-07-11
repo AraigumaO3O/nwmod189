@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "networthmod",
+    "name": "NetworthMod",
+    "description": "Consulta networth y Discord de Hypixel SkyBlock con /nw",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "authorList": ["ChatGPT"],
+    "url": "https://sky.shiiyu.moe/",
+    "credits": "Basado en SkyCrypt API",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
